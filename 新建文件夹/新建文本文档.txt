@@ -1,1 +1,3 @@
 tail -f /usr/local/tomcat/tomcat8080/logs/catalina.out
+
+test 20180612
